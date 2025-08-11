@@ -2,5 +2,4 @@ date,description,amount,type
 2023-01-01,Starbucks,-5.75,debit
 2023-01-02,Payroll Deposit,1500.0,credit
 2023-01-03,Netflix,-15.99,debit
-2023-01-04,,500.0,credit
 2023-01-05,ATM Withdrawal,-200.0,debit
